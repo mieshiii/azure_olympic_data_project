@@ -3,6 +3,7 @@
 ## Basic Architecture
 
 The basic architecture of the project is illustrated below:
+![alt text](https://raw.githubusercontent.com/mieshiii/azure_olympic_data_project/main/updated_olympic_data_architecture.png)
 
 **Requirements:**
 - Azure account (preferably with Free credits to reduce costs)
